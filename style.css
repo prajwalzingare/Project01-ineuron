@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+QLD+Beginner&display=swap');
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    font-family: 'Edu QLD Beginner', cursive;
+}
+
+/* navbar styling */
+.navbar-container {
+    margin-bottom: -280px;
+    margin-top: 30px;
+    display: flex;
+    width: 100%;
+    height: 60vh;
+    position: relative;
+    justify-content: space-between;
+}
+
+.logo {
+    margin-left: 10px;
+
+}
+
+.list li {
+    display: inline-block;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.list li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.button-group {
+    display: flex;
+    padding: 10px;
+    /* align-items: center; */
+}
+
+.search-icon {
+    padding: 8px;
+}
+
+.nav-button {
+    display: block;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-size: 16px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+/* Hero banner section  */
+
+
+.image img {
+    position: relative;
+    height: 450px;
+    width: 400px;
+    bottom: 400px;
+}
+
+.globe {
+    position: relative;
+    bottom: 380px;
+    left: 100px;
+}
+
+.globe img {
+    height: 50px;
+    width: 50px;
+}
+
+.square {
+    position: relative;
+    height: 400px;
+    width: 400px;
+    top: 80px;
+    left: 50px;
+}
+
+.star1 {
+    position: relative;
+    top: 40px;
+    left: 90px;
+
+
+}
+
+.star1 img {
+    height: 20px;
+    width: 20px;
+}
+
+.star2 {
+    position: relative;
+    bottom: 310px;
+    left: 500px;
+
+}
+
+.star2 img {
+    height: 50px;
+    width: 50px;
+}
+
+.hero-container-right {
+    /* display: block; */
+    position: relative;
+    top: -800px;
+    left: 550px;
+    margin-right: 500px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.hero-description {
+    text-align: center;
+    margin-bottom: 50px;
+    /* word-wrap: break-word; */
+}
+
+.container-btn {
+    text-align: center;
+}
+
+.button-email {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.button-join {
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.contact-heading {
+    text-align: center;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.icons {
+    text-align: center;
+    margin: auto;
+}
