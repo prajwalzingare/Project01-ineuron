@@ -1,7 +1,19 @@
-# Project 1 | Fashion Trends ![Project 1](https://img.shields.io/badge/Project%20-1-green) ![bootcamp](https://img.shields.io/badge/JS-Bootcamp-yellow)
+# Project 1 | Fashion Trends 
 
 
 By prajwal
+
+![hitesh choudhary](https://img.shields.io/badge/Prajwal--Zingare-JS--Devloper-green)
+
+![ineuro, lco](https://img.shields.io/badge/iNeuron-LCO-green)
+![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-JS--bootcamp-red)
+
+![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
+![HTML & CSS-Assighnment](https://img.shields.io/badge/HTML--CSS-Assighnment-orange)
+
+
+![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--CSS-Project--01-orange)
+
 
 🔗Go Live : [Project-01](https://project01-ineuron.netlify.app/)
 
